@@ -29,3 +29,21 @@
 2025-10-09 14:02:26 [winston logger] [32minfo[39m: Server listening on port 5000
 2025-10-09 14:02:30 [winston logger] [32minfo[39m: Server listening on port 5000
 2025-10-09 14:03:14 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-14 16:26:50 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-14 16:29:52 [winston logger] [32minfo[39m: ✅ User created: samirshaikh.lwt@gmail.com
+2025-10-14 16:30:22 [winston logger] [32minfo[39m: ✅ User logged in: samirshaikh.lwt@gmail.com
+2025-10-14 16:30:47 [winston logger] [32minfo[39m: ✅ User logged out: 58a0f8ef-cc74-4d03-8505-6c268f715109
+2025-10-14 16:31:20 [winston logger] [32minfo[39m: ✅ User created: samirshaikh.lwt@gmail.com
+2025-10-14 16:31:45 [winston logger] [32minfo[39m: ✅ User logged in: samirshaikh.lwt@gmail.com
+2025-10-14 16:32:15 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-14 16:33:25 [winston logger] [32minfo[39m: ✅ User created: 22amtics312@gmail.com
+2025-10-14 16:34:14 [winston logger] [32minfo[39m: ✅ User logged in: 22amtics312@gmail.com
+2025-10-14 16:40:08 [winston logger] [31merror[39m: Event listing failed: Op is not defined
+2025-10-14 16:40:12 [winston logger] [31merror[39m: Event listing failed: Op is not defined
+2025-10-14 16:40:19 [winston logger] [31merror[39m: Event listing failed: Op is not defined
+2025-10-14 16:40:31 [winston logger] [31merror[39m: Event listing failed: Op is not defined
+2025-10-14 16:40:46 [winston logger] [31merror[39m: Event listing failed: Op is not defined
+2025-10-14 16:42:28 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-14 16:42:35 [winston logger] [32minfo[39m: Server listening on port 5000
+2025-10-14 16:45:24 [winston logger] [32minfo[39m: ✅ User logged in: samirshaikh.lwt@gmail.com
+2025-10-14 16:48:57 [winston logger] [32minfo[39m: ✅ User logged in: 22amtics312@gmail.com

@@ -2,7 +2,7 @@
 
 # 📅 Event Management System (Node.js + MongoDB)
 
-This is a modern, secure, and full-featured Event Management System built on **Node.js** with the **Express** framework and **MongoDB**. It offers a robust user module with secure email verification and advanced event management capabilities, including an invitation system and filtering.
+This is a modern, secure, and full-featured Event Management System built on **Node.js** with the **Express** framework and **PostgreSql**. It offers a robust user module with secure email verification and advanced event management capabilities, including an invitation system and filtering.
 
 ## ✨ Key Features
 

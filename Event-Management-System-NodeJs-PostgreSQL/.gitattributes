@@ -1,0 +1,7 @@
+# Set the default behavior to normalize line endings (LF in the repo)
+* text=auto
+
+# Explicitly ensure binary files are never touched
+*.png binary
+*.jpg binary
+# Add any other non-text file types here

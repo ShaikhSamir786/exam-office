@@ -1,6 +1,7 @@
 const User = require("../models/authmodels");
 const Event = require("../models/event-model");
 const logger = require("../configs/logger");
+const { Op } = require("sequelize")
 
 // Create a new event
 const createEvent = async (req, res) => {
